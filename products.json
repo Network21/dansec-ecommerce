@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Comfy Sneakers",
+    "image": "assets/product1.jpg",
+    "price": 19.99,
+    "oldPrice": 29.99,
+    "rating": 4.5,
+    "tags": ["featured","top-rated"],
+    "features": ["Breathable knit upper","Lightweight foam sole","Available in 5 colors"]
+  },
+  {
+    "id": 2,
+    "title": "Classic Watch",
+    "image": "assets/product2.jpg",
+    "price": 29.99,
+    "oldPrice": 59.99,
+    "rating": 4.0,
+    "tags": ["on-sale"],
+    "features": ["Water resistant 50m","Stainless steel case","2 year warranty"]
+  },
+  {
+    "id": 3,
+    "title": "Noise-Cancelling Headphones",
+    "image": "assets/product3.jpg",
+    "price": 39.99,
+    "oldPrice": null,
+    "rating": 4.8,
+    "tags": ["top-rated"],
+    "features": ["Active noise cancellation","30h battery life","Comfort ear cushions"]
+  }
+]
